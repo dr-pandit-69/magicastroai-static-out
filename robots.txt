@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://magicastro.ai
+
+# Sitemaps
+Sitemap: https://magicastro.ai/sitemap.xml
